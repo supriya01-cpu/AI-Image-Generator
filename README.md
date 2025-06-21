@@ -35,9 +35,4 @@ Live Demo- https://supriya01-cpu.github.io/AI-Image-Generator/
 <br>
 🙋‍♀️ Author
 Made with ❤️ by Supriya Sinha
-Let’s connect on LinkedIn
 
-```bash
-
-git clone https://github.com/your-username/ai-image-generator.git
-cd ai-image-generator
